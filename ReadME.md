@@ -4,10 +4,12 @@ ___
 
 ![program_screenshot.png](program_screenshot.png)
 
+https://github.com/govnorice/archarchive/assets/80642969/1dd9d71d-ed31-417f-a712-dd8b221ca68a
+
 ## I USE ARCH LINUX BTW?
 Just install the package from the AUR, damn it!
 ```
-yay -S powerdialog
+yay -S archarchive
 ```
 
 ## HOW TO USE
