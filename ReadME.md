@@ -1,0 +1,17 @@
+# archarchive
+___
+#### A utility to quickly rollback an arch linux system using [ALA (a.k.a Arch Linux Archive)](https://wiki.archlinux.org/title/Arch_Linux_Archive)
+
+![program_screenshot.png](program_screenshot.png)
+
+## I USE ARCH LINUX BTW?
+Just install the package from the AUR, damn it!
+```
+yay -S powerdialog
+```
+
+## HOW TO USE
+### Date selection and system rollback:
+```
+sudo pizdec
+```
