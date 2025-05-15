@@ -1,4 +1,6 @@
 # archarchive
+> The repository is considered obsolete<br />
+> The new repository is [here](https://github.com/progzone122/archarchive)
 ___
 #### A utility to quickly rollback an arch linux system using [ALA (a.k.a Arch Linux Archive)](https://wiki.archlinux.org/title/Arch_Linux_Archive)
 
